@@ -19,7 +19,7 @@
 
 ### iOS
 
-**[곳감](https://github.com/YAPP-16th/Team_iOS_1_Client)** (2020.02 ~ 진행 중)
+**[곳감](https://github.com/YAPP-16th/Team_iOS_1_Client)** (2020.02 ~ 2020.06)
 - 소개: 위치 기반 알림 서비스
 - 담당부분: MVVM 구조설계, 맵, 목록, 알림, 할 일 생성 담당
 - 개발언어 및 사용기술: Swift, MVVM, RxSwift, RxCocoa, RxDataSources
@@ -122,6 +122,6 @@
 
 # Experience
 
-- [YAPP 16기](https://github.com/YAPP-16th) (2020.02 ~ )
+- [YAPP 16기](https://github.com/YAPP-16th) (2020.02 ~ 2020.06.27)
 - 우정사업본부 빅데이터 2018 해커톤 참가 (2018.12)
 - BlockChain Developer Bootcamp, 1st (2018.07.05~07)

@@ -123,5 +123,8 @@
 # Experience
 
 - [YAPP 16기](https://github.com/YAPP-16th) (2020.02 ~ 2020.06.27)
+
+<img src="./Images/최철웅_정회원인증서.pdf" width="200" />
+
 - 우정사업본부 빅데이터 2018 해커톤 참가 (2018.12)
 - BlockChain Developer Bootcamp, 1st (2018.07.05~07)

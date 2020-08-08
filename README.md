@@ -31,9 +31,9 @@
 - 결과
   - 앱스토어 출시
 
-<img src="./Images/오늘의온도/시연.gif" width="200" />
+<img src="./Images/오늘의온도/시연.gif" width="25%" />
 
-<img src="./Images/오늘의온도/소개메인.png" width="200" /><img src="./Images/오늘의온도/소개캘린더.png" width="200" /><img src="./Images/오늘의온도/소개통계.png" width="200" /><img src="Images/오늘의온도/소개설정.png" width="200"/> 
+<img src="./Images/오늘의온도/소개메인.png" width="20%" /> <img src="./Images/오늘의온도/소개캘린더.png" width="20%" /> <img src="./Images/오늘의온도/소개통계.png" width="20%" /> <img src="Images/오늘의온도/소개설정.png" width="20%"/> 
 
 **[WSMessenger](https://github.com/chelwoong/WSMessanger)** (2019.09 ~ 12)
 - 소개: 메신저 앱, Firebase의 인증과 DB 사용, Realm을 사용해 로컬 DB에도 저장해서 관리

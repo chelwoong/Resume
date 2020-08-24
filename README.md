@@ -15,6 +15,14 @@
 - 티티고, 인턴 (2019.02 ~ 2019.12)
 - 명지대학교 컴퓨터공학과 졸업 (2013 ~ 2020)
 
+# Experience
+
+- 부스트캠프, 챌린지 수료 (2020.07.27 ~ 08.21)
+- [YAPP 16기](https://github.com/YAPP-16th) (2020.02 ~ 2020.06.27)
+  - [수료증](./Images/최철웅_정회원인증서.pdf)
+- 우정사업본부 빅데이터 2018 해커톤 참가 (2018.12)
+- BlockChain Developer Bootcamp, 1st (2018.07.05~07)
+
 # Project
 
 ### iOS
@@ -118,13 +126,3 @@
 - 소개: 빈 자리가 있는 카페를 찾아주는 어플리케이션
 - 담당부분: Front-End 담당
 - 개발언어: React Native, AWS, Node.Js
-
-
-# Experience
-
-- [YAPP 16기](https://github.com/YAPP-16th) (2020.02 ~ 2020.06.27)
-
-<img src="./Images/최철웅_정회원인증서.pdf" width="200" />
-
-- 우정사업본부 빅데이터 2018 해커톤 참가 (2018.12)
-- BlockChain Developer Bootcamp, 1st (2018.07.05~07)

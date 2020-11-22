@@ -18,7 +18,7 @@
 # Experience
 
 - [부스트캠프 5기](https://connect.or.kr/service), 챌린지 수료 (2020.07.27 ~ 08.21)
-  - [수료증](./Images/Certifications/부스트캠프_챌린지수료증)
+  - [수료증](./Images/Certifications/부스트캠프_챌린지수료증.pdf)
 - [YAPP 16기](https://github.com/YAPP-16th) (2020.02 ~ 2020.06.27)
   - [수료증](./Images/Certifications/YAPP16_정회원인증서.pdf)
 - 우정사업본부 빅데이터 2018 해커톤 참가 (2018.12)

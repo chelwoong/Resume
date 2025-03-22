@@ -1,26 +1,30 @@
 
-🚨 Woong, iOS Developer 가 되고싶어요 🙏🙏🙏
+🚨 Woongs, iOS Developer
 
 # Me
 
 - 최철웅
 - Born is 1993.10.21
-- Email: ccw1021.dev@gmail.com
-- Blog: https://woongsios.tistory.com
+- Email: woongss.dev@gmail.com
+- Blog: [https://woongsios.tistory.com](https://woongs.tistory.com/)
 - [github](https://github.com/chelwoong/)
 - [BOJ](https://www.acmicpc.net/user/woongs)
 
 # Career
 
+- 카카오 (2021.06 ~ )
 - 티티고, 인턴 (2019.02 ~ 2019.12)
 - 명지대학교 컴퓨터공학과 졸업 (2013 ~ 2020)
 
 # Experience
-
-- [부스트캠프 5기](https://connect.or.kr/service), 챌린지 수료 (2020.07.27 ~ 08.21)
+- [부스트캠프 iOS 5기](https://boostcamp.connect.or.kr), 멤버십 수료 (2020.08.31 ~ 2020.12.18)
+- [부스트캠프 iOS 5기](https://boostcamp.connect.or.kr), 챌린지 수료 (2020.07.27 ~ 2020.08.21)
   - [수료증](./Images/Certifications/부스트캠프_챌린지수료증.pdf)
+- [YAPP 17기](https://github.com/YAPP-17th) (2020.08 ~ 2020.12)
+  - [유니플로거](https://github.com/Yapp-17th/iOS_2_Client) 제작
 - [YAPP 16기](https://github.com/YAPP-16th) (2020.02 ~ 2020.06.27)
   - [수료증](./Images/Certifications/YAPP16_정회원인증서.pdf)
+  - [곳감](https://github.com/YAPP-16th/Team_iOS_1_Client) 제작
 - 우정사업본부 빅데이터 2018 해커톤 참가 (2018.12)
 - BlockChain Developer Bootcamp, 1st (2018.07.05~07)
 
